@@ -1,2 +1,3 @@
 # modern-gis
-GIS in the modern age
+Desctiption: GIS in the modern age
+Author: Ben Ross
